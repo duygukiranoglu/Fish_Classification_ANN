@@ -1,5 +1,7 @@
 # Fish_Classification_ANN
 
+![](fish_image.png)
+
 <div class="alert alert-block" style="background-color: #00b7eb; padding: 20px; border-radius: 10px; box-shadow: 2px 2px 8px rgba(0,0,0,0.1);">
   <span style="color:#2c3e50; font-weight: bold; font-size: 30px; font-family: Arial, sans-serif;">🎣 Balık Görüntü Sınıflandırması: Yapay Sinir Ağı (ANN) Yaklaşımı</span>
 </div>
