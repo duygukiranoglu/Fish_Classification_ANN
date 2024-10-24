@@ -61,8 +61,8 @@ Bu projenin amacı, ANN kullanarak balık türlerini doğru şekilde sınıfland
 
 <h3 style="color: #2c3e50; font-family: Verdana, sans-serif;">Sonuçlar</h3>
 <ul style="background-color: #f9f9f9; padding: 10px; border-radius: 10px; font-family: 'Segoe UI', sans-serif; list-style-type: square;">
-  <li>Eğitim Doğruluğu: %99.7</li>
-  <li>Doğrulama Doğruluğu: %97.6</li>
+  <li>Eğitim Doğruluğu: %...</li>
+  <li>Doğrulama Doğruluğu: %...</li>
 </ul>
 <p style="font-family: 'Segoe UI', sans-serif;">Model, eğitim ve doğrulama setlerinde iyi bir performans göstermiştir. Aşırı öğrenme engellenmiş ve genel olarak güçlü bir model elde edilmiştir.</p>
 
