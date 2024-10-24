@@ -59,7 +59,7 @@ Bu projenin amacı, ANN kullanarak balık türlerini doğru şekilde sınıfland
   <li>Grid Search: Hiperparametre kombinasyonlarının tamamı taranarak en iyi sonuca ulaşılır, fakat çok fazla hesaplama gücü ve zaman gerektirir.</li>
   <li>Bayesian Optimization: Daha az denemeyle optimum sonuca ulaşabilir ve zaman tasarrufu sağlar. Ancak, çok büyük arama uzaylarında yine de uzun sürebilir.</li>
 </ul>
-<p style="font-family: 'Segoe UI', sans-serif;">📌 Yapılan hiperparametre aramaları sonucunda modelde belirgin bir iyileşme gözlenmemiştir, bu durum Random Search’ün rastgele seçimler yapmasından kaynaklanmaktadır.</p>
+<p style="font-family: 'Segoe UI', sans-serif;">📌 Yapılan hiperparametre aramaları sonucunda modelde belirgin bir iyileşme gözlenmemiştir, bu durum Random Search’ün rastgele seçimler yapmasından ve bu projede uygulanan hyperparameter uzayımızın dar tutulmasından(süre gereği) kaynaklanmaktadır.</p>
 
 <h3 style="color: #2c3e50; font-family: Verdana, sans-serif;">Test Veri Seti Sonuçlar</h3>
 <ul style="background-color: #f9f9f9; padding: 10px; border-radius: 10px; font-family: 'Segoe UI', sans-serif; list-style-type: square;">
