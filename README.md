@@ -19,6 +19,7 @@
   <li>Test Veri Seti Sonuçlar</li>
   <li>Gelecek Çalışmalar</li>
   <li>Kaggle Proje Linki</li>
+  <li>Proje Çözüm Webinar Youtube Linki</li>
 </ul>
 
 <h3 style="color: #2c3e50; font-family: Verdana, sans-serif;">Proje Özeti</h3>
@@ -80,3 +81,6 @@ Bu projenin amacı, ANN kullanarak balık türlerini doğru şekilde sınıfland
 
 <h3 style="color: #2c3e50; font-family: Verdana, sans-serif;">Kaggle Proje Linki</h3>
 <p style="font-family: 'Segoe UI', sans-serif;">Projenin Kaggle sayfasına ulaşmak için şu bağlantıyı kullanabilirsiniz: <a href="https://www.kaggle.com/code/duygukranolu/fish-classification-ann" style="color: #00b7eb; text-decoration: none;"> https://www.kaggle.com/code/duygukranolu/fish-classification-ann </a></p>
+
+<h3 style="color: #2c3e50; font-family: Verdana, sans-serif;">Proje Çözüm Webinar Youtube Linki</h3>
+<p style="font-family: 'Segoe UI', sans-serif;">Proje Çözüm Webinar Youtube sayfasına ulaşmak için şu bağlantıyı kullanabilirsiniz: <a href="https://www.youtube.com/watch?v=gjB1fFFLWKM&t=69s" style="color: #00b7eb; text-decoration: none;"> https://www.youtube.com/watch?v=gjB1fFFLWKM&t=69s </a></p>
