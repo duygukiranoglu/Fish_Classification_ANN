@@ -1,10 +1,13 @@
 # Fish_Classification_ANN
 
+<div class="alert alert-block" style="background-color: #0e76a8; padding: 30px; border-radius: 15px; box-shadow: 3px 3px 10px rgba(0,0,0,0.15);">
+  <span style="color: #fff; font-weight: bold; font-size: 36px; font-family: 'Arial Black', sans-serif; letter-spacing: 1px;">
+    🎣 Balık Görüntü Sınıflandırması: Yapay Sinir Ağı (ANN) Yaklaşımı
+  </span>
+</div>
+
 ![](fish_image.png)
 
-<div class="alert alert-block" style="background-color: #00b7eb; padding: 20px; border-radius: 10px; box-shadow: 2px 2px 8px rgba(0,0,0,0.1);">
-  <span style="color:#2c3e50; font-weight: bold; font-size: 30px; font-family: Arial, sans-serif;">🎣 Balık Görüntü Sınıflandırması: Yapay Sinir Ağı (ANN) Yaklaşımı</span>
-</div>
 
 <h3 style="color: #2c3e50; font-family: Verdana, sans-serif;">📑 İçindekiler</h3>
 <ul style="background-color: #f9f9f9; padding: 15px; border-radius: 10px; font-family: 'Segoe UI', sans-serif; list-style-type: square;">
