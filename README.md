@@ -13,7 +13,7 @@
   <li>Projenin Amacı</li>
   <li>Model Yapısı</li>
   <li>Hiperparametre Optimizasyonu</li>
-  <li>Sonuçlar</li>
+  <li>Test Veri Seti Sonuçlar</li>
   <li>Gelecek Çalışmalar</li>
   <li>Kaggle Proje Linki</li>
 </ul>
