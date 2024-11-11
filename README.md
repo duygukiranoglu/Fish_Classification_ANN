@@ -1,4 +1,4 @@
-# Fish_Classification_ANN
+# 🥇 Birinci olan projem - Akbank Derin Ögrenme Proje Kampı
 
 <div class="alert alert-block" style="background-color: #0e76a8; padding: 30px; border-radius: 15px; box-shadow: 3px 3px 10px rgba(0,0,0,0.15);">
   <span style="color: #fff; font-weight: bold; font-size: 36px; font-family: 'Arial Black', sans-serif; letter-spacing: 1px;">
