@@ -47,7 +47,7 @@ Bu proje, İzmir'deki bir süpermarketten toplanan görüntüler kullanılarak 9
 Bu projenin amacı, ANN kullanarak balık türlerini doğru şekilde sınıflandırmak ve modelin genelleme kabiliyetini artırmaktır. Genelleme kabiliyeti, modelin daha önce görmediği yeni verileri doğru şekilde tahmin edebilme yeteneğidir. Ancak, aşırı öğrenme (overfitting) bu kabiliyeti engelleyebilir. Bu sorunu aşmak için early stopping ve dropout gibi yöntemler kullanılmıştır. Ek olarak, hiperparametre optimizasyonu yapılmıştır.
 </p>
 
-<h3 style="color: #2c3e50; font-family: Verdana, sans-serif;">Model Yapısı</h3>
+<h3 style="color: #2c3e50; font-family: Verdana, sans-serif;"> 🧠 Model Yapısı</h3>
 <p style="font-family: 'Segoe UI', sans-serif;">Bu projede, CNN yerine ANN kullanılmıştır. Görüntüler doğrudan ANN'e verilmiş ve özellik çıkarımı aşaması olmadan balık türlerinin doğru şekilde sınıflandırılması sağlanmıştır. Modelin genel yapısı şu şekildedir:</p>
 <ul style="background-color: #f9f9f9; padding: 10px; border-radius: 10px; font-family: 'Segoe UI', sans-serif; list-style-type: disc;">
   <li>Girdi Katmanı: Görüntü pikselleri doğrudan ANN'e beslenir.</li>
