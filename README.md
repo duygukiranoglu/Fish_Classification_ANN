@@ -65,7 +65,7 @@ Bu projenin amacı, ANN kullanarak balık türlerini doğru şekilde sınıfland
 </ul>
 <p style="font-family: 'Segoe UI', sans-serif;">📌 Yapılan hiperparametre aramaları sonucunda modelde belirgin bir iyileşme gözlenmemiştir, bu durum Random Search’ün rastgele seçimler yapmasından ve bu projede uygulanan hyperparameter uzayımızın dar tutulmasından(süre gereği) kaynaklanmaktadır.</p>
 
-<h3 style="color: #2c3e50; font-family: Verdana, sans-serif;">Test Veri Seti Sonuçlar</h3>
+<h3 style="color: #2c3e50; font-family: Verdana, sans-serif;">📊 Test Veri Seti Sonuçlar</h3>
 <ul style="background-color: #f9f9f9; padding: 10px; border-radius: 10px; font-family: 'Segoe UI', sans-serif; list-style-type: square;">
   <li>Test Loss: 0.066 </li>
   <li>Test Accuracy: 0.98 </li>
